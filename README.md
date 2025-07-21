@@ -11,9 +11,9 @@ Estilo visual inspirado en ambientaciones medievales o de fantasía.
 
 Requiere JavaScript para renderizar la app.
 
-Tecnologías utilizadas (suposición):
+Tecnologías utilizadas :
 
-JavaScript (posiblemente React, Vue o un framework similar).
+JavaScript .
 
 HTML5/CSS3 para la estructura y estilos.
 
@@ -36,11 +36,11 @@ Enlace a la versión principal del juego (Card Master).
 
 SPA optimizada con despliegue en Netlify.
 
-Tecnologías utilizadas (suposición):
+Tecnologías utilizadas :
 
-JavaScript con algún framework front‑end (React, Vue o similar).
+JavaScript con algún framework front‑end .
 
-Backend (posiblemente Firebase o API personalizada) para usuarios y datos.
+Backend  Firebase para usuarios y datos.
 
 Diseño responsivo con CSS moderno.
 
